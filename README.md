@@ -12,13 +12,14 @@ The algorithms are:
   - Genetic
   
 By choosing one of the above options, you will see:
-  -the effincy of that algorithm ( based on number of tasks that were finished before their deadline)
-  -number of tasks that finished before their deadline
-  -number of tasks that finished after their deadline
-  -and total cost
+  - the effincy of that algorithm ( based on number of tasks that were finished before their deadline)
+  - number of tasks that finished before their deadline
+  - number of tasks that finished after their deadline
+  - and the total cost
+  
 Then, by pressing '1', an excel file with more details and a chart demonstrating the efficiency of the algorithms will be generated.
 
 Please install required packages before running:
-    -pip install xlsxwriter
-    -pip installcolorama
-    -pip installpandas
+    - pip install xlsxwriter
+    - pip installcolorama
+    - pip installpandas
