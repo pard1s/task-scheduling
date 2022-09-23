@@ -21,5 +21,5 @@ Then, by pressing '1', an excel file with more details and a chart demonstrating
 
 Please install required packages before running:
     - pip install xlsxwriter
-    - pip installcolorama
-    - pip installpandas
+    - pip install colorama
+    - pip install pandas
