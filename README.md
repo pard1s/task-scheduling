@@ -20,6 +20,6 @@ By choosing one of the above options, you will see:
 Then, by pressing '1', an excel file with more details and a chart demonstrating the efficiency of the algorithms will be generated.
 
 Please install required packages before running:
-    - pip install xlsxwriter
-    - pip install colorama
-    - pip install pandas
+  - pip install xlsxwriter
+  - pip install colorama
+  - pip install pandas
